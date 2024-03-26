@@ -1,0 +1,74 @@
+tfc_singleproduct_cartbtn form div div div:nthchild(2) div button
+tfc_singleproduct_cartbtn div table tdbody tr th 
+tfc_singleproduct_cartbtn form div table tbody tr td ul
+tfc_singleproduct_cartbtn form div div div:nth-child(2) div input   
+tfc_singleproduct_cartbtn form div div div:nth-child(2)
+tfc_singleproduct_cartbtn form div table tbody tr td a
+tfc_single_rating div div span strong 
+tfc_single_rating div a
+
+    display: flex;
+    flex-flow: nowrap;
+    align-items: center;
+    flex-direction: row-reverse;
+
+
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    gap: 2rem;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+
+tfc_single_progress div div:nth-child(2) div div
+
+tfc_single_revieweditor div div:nthChild 
+div review_form_wrapper
+
+
+.tfc_single_revieweditor div #review_form_wrapper #review_form div form p:nth-child(4)
+
+
+li - margin=0rem;
+div item meta= 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: inherit;
+    flex-flow: wrap;    
+    align-items: center;
+time=    
+    top: 25%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+ul div div:nth-child(2)
+
+.tfc_single_revieweditor div #review_form_wrapper #review_form div form p:nth-child(4) input[name="submit"]
+
+addreivew
+font-size: 1rem;
+    position: absolute;
+    z-index: 1;
+    /* background: goldenrod; */
+    color: black;
+    left: 50%;
+
+.tfc_single_testimonial ul li div:nth-child(2)
+
+
+product-rating=flex-direction: column;
+    gap: 1rem;
+    position: relative;
+
+a=    padding-left: 6rem
+    text-decoration: none;
+    border-bottom: 1px solid #777;
+    color: #777;
+p=    display: inline;
+    position: absolute;
+    top: 91px;
+    left: 1.2rem;
+    color: #777!important;
+
+tfc_single_product_reviews div div div div
+.tfc_single_product_reviews div p
+.tfc_single_product_reviews div div div
