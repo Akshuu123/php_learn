@@ -19,6 +19,8 @@ $arr = [
 print_r($arr);
 
 
-print_r(array_values($arr[0]));
-
-
+foreach ($arr as $key => $value) {
+    print_r(array_values($value));
+}
+?>
+<? echo 'hi';

@@ -9,5 +9,5 @@ $arr = array(
     'fifth'
 );
 
-$arr_uniq=array_unique($arr, SORT_REGULAR);
+$arr_uniq = array_unique($arr, SORT_REGULAR);
 print_r($arr_uniq);

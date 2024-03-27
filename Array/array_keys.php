@@ -18,6 +18,4 @@ $arr = [
 foreach ($arr as $key => $innerarray) {
     // print_r(array_keys($innerarray));
     print_r(array_keys($innerarray));
-    foreach ($innerarray as $key => $value) {
-    }
 }
