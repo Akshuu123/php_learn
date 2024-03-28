@@ -4,7 +4,5 @@
 include 'strings.php';
 print_r($arr);
 
-$imp_str = implode('_', $arr);
-
-echo $imp_str . "\n";
-echo gettype($imp_str);
+$imp_str =implode('_',$arr);
+echo $imp_str;
