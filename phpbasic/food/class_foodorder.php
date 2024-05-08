@@ -1,5 +1,5 @@
 <?php
-include_once 'food/class_food.php';
+include 'food/class_food.php';
 class FoodOrder extends FoodItem {
     public $orderNumber;
     public $items = [];
@@ -32,3 +32,5 @@ class FoodOrder extends FoodItem {
         echo "Total Price: $" . $this->calculateTotalPrice() . "\n";
     }
 }
+$food_item=new FoodOrder(10,'akshay');
+print_r($food_item);
