@@ -40,6 +40,6 @@ class Speeddistance
     }
 }
 
-// time ,distance ,speed
+// 
 $speed = new Speeddistance('1000', '10', '15');
-print_r($speed->get_speed());
+// print_r($speed->get_speed());

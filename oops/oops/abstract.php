@@ -3,7 +3,7 @@
 // Define an abstract class Animal
 /**
  * Abstraction Matlab abstract class directly access nahi kar sakte, 
- * we should have to derived new class from {abstract} class to use their method
+ * we should have to derived new class from parent class to use their method
  */
 abstract class Animal {
     protected $name;

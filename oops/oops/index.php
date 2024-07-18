@@ -80,4 +80,3 @@ print_r($firstname->get_user_info());
 $change = $firstname->set_user_info('lakshay', 'chauhan', 25);
 // print_r($changed);
 print_r($firstname->get_user_info() . ' yes this is right');
-
